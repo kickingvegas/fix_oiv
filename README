@@ -1,0 +1,17 @@
+README
+
+fix_oiv.py is a script which will patch an installation of the OIV app on a
+Mac OS X 10.7 (Lion) system. This script should be run from the Terminal app
+found in /Applications/Utilities as follows:
+
+$ python fix_oiv.py
+
+If you do not have direct permission to modify the OIV app but have an
+administrative account on the system, then run this script using sudo as
+follows:
+
+$ sudo python fix_oiv.py
+
+
+
+
